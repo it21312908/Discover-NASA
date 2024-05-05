@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.login-container {
+  position: relative; /* Make the container relative to position its children */
+}
+
+.login-image {
+  width: 100%; /* Ensure the image fills the container */
+  border-radius: 8px; /* Rounded corners */
+}
+
+.login-form {
+  position: absolute; /* Position the form absolutely inside the container */
+  top: 50%; /* Position the form vertically at 50% from the top */
+  left: 50%; /* Position the form horizontally at 50% from the left */
+  transform: translate(-50%, -50%); /* Center the form */
+  width: 80%; /* Adjust the width of the form */
+  max-width: 400px; /* Maximum width of the form */
+  padding: 20px; /* Add padding */
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
+
+/* Navbar */
+.navbar {
+  background-color: #1434A4; /* Set background color to brown */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff; /* Set text color */
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+  color: #ffffff; /* Change text color on hover */
+}
+
+.navbar-toggler-icon {
+  background-color: #ffffff; /* Set color of the toggler icon */
+}
+
+/* Buttons */
+.navbar .btn {
+  margin: 0 5px; /* Add margin between buttons */
+}
+
+.navbar .btn-danger {
+  background-color: #1434A4; /* Set button background color to brown */
+  border-color: #1434A4; /* Set button border color */
+  color: #ffffff; /* Set button text color */
+}
+
+.navbar .btn-danger:hover {
+  background-color: #1434A4; /* Change button background color on hover */
+  border-color: #1434A4; /* Change button border color on hover */
+}
+
