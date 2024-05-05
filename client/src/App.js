@@ -23,7 +23,7 @@ function App() {
 
       <Switch>
         <Route path='/apod' element={<Home/>}></Route>
-        <Route path='/' element={<Login/>}></Route>
+        <Route path='/login' element={<Login/>}></Route>
         <Route path='/register' element={<Register/>}></Route>
         <Route path='/history' element={<History/>}></Route>
         <Route path='/random' element={<RandomGenerator/>}></Route>
