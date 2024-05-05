@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9052b460.css",
+    "main.js": "/static/js/main.ada643e4.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/landing.mp4": "/static/media/landing.f4b3faf3db6f23182d71.mp4",
+    "static/media/background2.jpg": "/static/media/background2.ae8488c1391f383991af.jpg",
+    "static/media/planet-earth-background.jpg": "/static/media/planet-earth-background.a47083bc724c1666ce68.jpg",
+    "static/media/login-image3.jpg": "/static/media/login-image3.ece91d9b23e7864806f5.jpg",
+    "static/media/logo.png": "/static/media/logo.0cef6cbef225e26e636e.png",
+    "static/media/found_12487558.png": "/static/media/found_12487558.700e983f5d9618a56068.png",
+    "index.html": "/index.html",
+    "main.9052b460.css.map": "/static/css/main.9052b460.css.map",
+    "main.ada643e4.js.map": "/static/js/main.ada643e4.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9052b460.css",
+    "static/js/main.ada643e4.js"
+  ]
+}
